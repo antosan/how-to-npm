@@ -1,6 +1,6 @@
 {
   "name": "how-to-git",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -15,8 +15,7 @@
     "url": "https://github.com/antosan/how-to-npm/issues"
   },
   "homepage": "https://github.com/antosan/how-to-npm#readme",
-  "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "description": "This is the README.md",
+  "dependencies": {},
+  "devDependencies": {}
 }
