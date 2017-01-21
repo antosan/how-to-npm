@@ -1,0 +1,22 @@
+{
+  "name": "how-to-git",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antosan/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/antosan/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/antosan/how-to-npm#readme",
+  "description": "",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
